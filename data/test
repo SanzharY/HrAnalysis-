@@ -1,0 +1,2 @@
+df = pd.read_csv(r"C:\Users\ekpin\Documents\python\data\employees.csv")
+print(df.columns)
